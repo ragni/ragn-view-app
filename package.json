@@ -58,6 +58,6 @@
     "gulp-angular-embed-templates": "^v2.0.0",
     "gulp-pipe": "^1.0.4",
     "gulp-util": "^3.0.8",
-    "node-sass": "4.12.0"
+    "node-sass": "4.13.1"
   }
 }
